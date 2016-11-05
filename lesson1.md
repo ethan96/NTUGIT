@@ -6,9 +6,9 @@
 # Date
 ## 2016/11/05
 
-# Gtihub Username
-## ethan96
-==============
+# Github Username
+## **ethan96**
+
 # My Favorite Programming Language
 ## 1.ASP.NET
 ## 2.Javascipt
