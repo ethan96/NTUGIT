@@ -11,6 +11,6 @@ Ethan96 Chen
 
 # My Favorite Programming Language
 1.ASP.NET  
-2.Javascipt  
+2.Javascript  
 3.Java  
 
