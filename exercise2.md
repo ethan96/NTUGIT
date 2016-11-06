@@ -3,4 +3,4 @@ This is a commit on a new branch! I used ```git checkout exercise2``` to switch 
 Hello World in my favorite language:
 
 C# language
-```Console.WriteLine("<span style='color:blue'>Hello World</span>");```
+```Console.WriteLine("<font color='blue'>Hello World</font>");```
